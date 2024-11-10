@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/c17202bf4a21e83931fed.jpg" alt="Anime" style="max-width: 478px; background-color: rgb(63, 63, 63);">
 </p>
 <p align="center">
-<a href="https://rzkyfdlh.tech"><img title="TELEGRAM BOT" src="https://img.shields.io/badge/Base Bot Telegram-yellow?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a><br>
+<a href="https://rzkydev.site"><img title="TELEGRAM BOT" src="https://img.shields.io/badge/Base Bot Telegram-yellow?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a><br>
 <a href="https://github.com/Rizky878"><img title="Author" src="https://img.shields.io/badge/Author-Rzky%20Fdlh-red.svg?style=for-the-badge&logo=github"></a><br>
 <a href="https://github.com/Rizky878/bot-tele"><img src="https://img.shields.io/github/repo-size/Rizky878/bot-tele?style=for-the-badge&logo=github" alt="size" /></a><br>
 <a href="https://github.com/Rizky878/bot-tele/watchers"> <img src="https://img.shields.io/github/watchers/Rizky878/bot-tele?logo=github&style=for-the-badge" alt="Watch" /></a><br>
@@ -23,7 +23,7 @@
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/Rizky878/bot-tele
+> git clone https://github.com/rzkyydev/bot-tele
 > cd bot-tele
 ```
 
@@ -56,11 +56,7 @@ get bot token at [`@BotFather`](http://t.me/BotFather).<br>
 * [`Telegraf`](https://github.com/telegraf/telegraf)
 * [`Pais`](https://github.com/Paiiss)
 * [`Doyatama Code`](https://youtube.com/channel/UCctNhbMwbMs-5bdfuQv1aXg)
-* [`Rzky`](https://wa.me/6282387804410)
 * [`Zobin`](https://github.com/Zobin33)
 * [`Manxtodd`](https://github.com/Manxtodd)
-
-# Donate
-* [`Pulsa`] (6285364937006)(Telkomsel)
 
 
